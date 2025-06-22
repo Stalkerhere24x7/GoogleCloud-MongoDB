@@ -1,0 +1,8 @@
+{
+  "name": "AirSense AI",
+  "description": "An intelligent air quality monitoring and advisory platform. It provides real-time AQI data, personalized health recommendations via an AI assistant, and AI-powered analysis of sky images to correlate visual conditions with air quality metrics. Includes historical sky view features.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
